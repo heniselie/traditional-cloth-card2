@@ -1,0 +1,64 @@
+body {
+    background-color:DodgerBlue;
+} 
+
+.main-container1 {
+  display: flex;  
+  height: 600px;
+  flex-wrap: wrap;
+  align-content: space-around;
+  background-color: DodgerBlue;
+  justify-content: space-between;
+  margin-right: 0px;
+}
+
+.flex-container > div {
+  background-color: yellowgreen;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.product1 {
+    border: 0px solid red;
+    margin: 0px;
+    margin-right: 50px;
+    
+}
+
+
+.product2 {
+    border: 0px solid red;
+    margin-right: 50px;
+
+}
+
+.product3 {
+    border: 0px solid red;
+    margin-right: 50px;
+
+}
+
+.product4 {
+    border: 0px solid red;
+    margin-right: 50px;
+
+}
+
+.text-align {
+    text-align: center;
+    background: yellowgreen;
+}
+
+.product-availability {
+    border-width: 327;
+    background: darkgrey;
+    text-align: left;
+    color: yellow;
+
+    
+}
+
+
