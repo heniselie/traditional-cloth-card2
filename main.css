@@ -1,5 +1,6 @@
 body {
-    background-color:DodgerBlue;
+   
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYIoqbZ5FigK6Da0t2o9lS5ZdZQM8Ql99mk90GYfFYOuZkTbKz");
 } 
 
 .main-container1 {
@@ -7,7 +8,7 @@ body {
   height: 600px;
   flex-wrap: wrap;
   align-content: space-around;
-  background-color: DodgerBlue;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYIoqbZ5FigK6Da0t2o9lS5ZdZQM8Ql99mk90GYfFYOuZkTbKz");
   justify-content: space-between;
   margin-right: 0px;
 }
